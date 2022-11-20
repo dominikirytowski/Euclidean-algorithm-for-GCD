@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Euclidean-algorithm-for-GCD/static/css/main.073c9b0a.css",
+    "main.js": "/Euclidean-algorithm-for-GCD/static/js/main.455781c3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Euclidean-algorithm-for-GCD/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Euclidean-algorithm-for-GCD/index.html",
+    "main.073c9b0a.css.map": "/Euclidean-algorithm-for-GCD/static/css/main.073c9b0a.css.map",
+    "main.455781c3.js.map": "/Euclidean-algorithm-for-GCD/static/js/main.455781c3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Euclidean-algorithm-for-GCD/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.455781c3.js"
+  ]
+}
